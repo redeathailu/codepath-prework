@@ -1,10 +1,10 @@
 # codepath-prework
 Codepath prework project
-# Prework - *Name of App Here*
+# Prework - *Background Color Editor*
 
 Submitted by: **Redeat Hailu**
 
-**Name of your app** is an app that... [TODO] 
+**Background Color Editor** is an app that serves as an introduction  
 
 Time spent: **2** hours spent in total
 
@@ -19,20 +19,40 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/redeathailu/codepath-prework/blob/main/backgroundcolor.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+Favorite Apps:
+1. Spotify:
+    1. Spotify's algorithm-generated playlists and music recommendations based on user preferences. It offers personalized music discovery.
+    2. Display is clean and navigation through the app is easy.
+    
+2. GoodNotes:
+    1. Option to change orientation of pages and organize notebooks within folders.
+    2. Seamless synchronization with other devices.
+
+3. SnapChat:
+    1. Swipe Navigation 
+    2. Discover section, like spotify allows users to explore new content 
+    
+4. BeReal
+    1. Random Timed Notification
+    2. Memories are saved by calander date
+    3. Reactions from friends 
+    
+App Idea:
+    
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+    Navigating through xcode, from the ios side, was a bit confusing at first. It took me some time to find the Adjust Editor Options to connect the button and use it as a way to change the background color with each click. 
 
 ## License
 
