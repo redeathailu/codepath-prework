@@ -50,9 +50,9 @@ Favorite Apps:
 App Idea:
 
 My idea for an app is a restaurant suggestion app. It will have the feature to organize restuarnt 
-by preferences such as causaly, cuisine, proximity, allergies, and specific menu items users are looking for.
+by preferences such as level of formality, cuisine, proximity, allergies, and specific menu items users are looking for.
 I would also like to include a side of the app that suggests new places to users based on their previous choice
-(like sotify does music). I would also like to include a feature that allows user to connect with friends,
+(like spotify does music). I would also like to include a feature that allows user to connect with friends,
 write comments about items they and even save pictures of their trips there. I would see this app as 
  something more between friends the way BeReal is compared to a reviewing app like yelp.
 ## Notes
