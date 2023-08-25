@@ -6,7 +6,7 @@ Submitted by: **Redeat Hailu**
 
 **Background Color Editor** is an app that serves as an introduction  
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -48,11 +48,17 @@ Favorite Apps:
     3. Reactions from friends 
     
 App Idea:
-    
-
+My idea for an app is a restaurant suggestion app. It will have the feature to organize restuarnt 
+by preferences such as causaly, cuisine, proximity, allergies, and specific menu items users are looking for.
+I would also like to include a side of the app that suggests new places to users based on their previous choice
+(like sotify does music). I would also like to include a feature that allows user to connect with friends,
+write comments about items they and even save pictures of their trips there. I would see this app as 
+ something more between friends the way beReal is compared to a reviewing app like yelp.
 ## Notes
 
-    Navigating through xcode, from the ios side, was a bit confusing at first. It took me some time to find the Adjust Editor Options to connect the button and use it as a way to change the background color with each click. 
+    Navigating through xcode, from the ios side, was a bit confusing at first. 
+    It took me some time to find the Adjust Editor Options to connect the button 
+    and use it as a way to change the background color with each click. 
 
 ## License
 
