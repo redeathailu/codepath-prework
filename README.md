@@ -4,7 +4,7 @@ Codepath prework project
 
 Submitted by: **Redeat Hailu**
 
-**Background Color Editor** is an app that serves as an introduction  
+**Background Color Editor** is an app that serves as an introduction to myself and allows users to change the background color of the app to a randomly generated color with a click of a button that is labeled and located in the center.
 
 Time spent: **4** hours spent in total
 
